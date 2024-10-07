@@ -53,10 +53,4 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    public bool GetPauseStatus()
-    {
-        return isPaused;
-    }
-
-
 }
